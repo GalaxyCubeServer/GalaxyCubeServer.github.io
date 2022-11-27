@@ -1,0 +1,9 @@
+- 服务器
+  - [官方网站](https://mc.tesf.top/)
+  - [文档](/)
+  - [皮肤站](https://skin.tesf.top/)
+- 游玩
+  - [保姆级教学](/docs/join.md)
+  - [公共地标点](/docs/db.md)
+  - [公共红石点](/docs/hs.md)
+  - [常用指令](/docs/comm.md)
